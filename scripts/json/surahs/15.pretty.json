@@ -1,0 +1,604 @@
+{
+  "number": 15,
+  "name": "سورة الحجر",
+  "transliteration_en": "Al-Hijr",
+  "translation_en": "The Rock",
+  "total_verses": 99,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ الٓر تِلْكَ ءَايَٰتُ ٱلْكِتَٰبِ وَقُرْءَانٍ مُّبِينٍ",
+      "translation_en": "Alif, Lam, Ra. These are the verses of the Book and a clear Qur'an.",
+      "translation_zh": "艾列弗，俩目，拉仪。这些是天经--明白的《古兰经》的节文。"
+    },
+    {
+      "number": 2,
+      "text": "رُّبَمَا يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ لَوْ كَانُوا۟ مُسْلِمِينَ",
+      "translation_en": "Perhaps those who disbelieve will wish that they had been Muslims.",
+      "translation_zh": "不信道者或许要希望他们原是归顺的。"
+    },
+    {
+      "number": 3,
+      "text": "ذَرْهُمْ يَأْكُلُوا۟ وَيَتَمَتَّعُوا۟ وَيُلْهِهِمُ ٱلْأَمَلُ فَسَوْفَ يَعْلَمُونَ",
+      "translation_en": "Let them eat and enjoy themselves and be diverted by [false] hope, for they are going to know.",
+      "translation_zh": "你听任他们吃喝玩乐吧！你听任他们受希望的诱惑吧！因为他们不久就会知道的。"
+    },
+    {
+      "number": 4,
+      "text": "وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلَّا وَلَهَا كِتَابٌ مَّعْلُومٌ",
+      "translation_en": "And We did not destroy any city but that for it was a known decree.",
+      "translation_zh": "我不毁灭一个城市则已，但毁灭它，就有一个可知的定期。"
+    },
+    {
+      "number": 5,
+      "text": "مَّا تَسْبِقُ مِنْ أُمَّةٍ أَجَلَهَا وَمَا يَسْتَـْٔخِرُونَ",
+      "translation_en": "No nation will precede its term, nor will they remain thereafter.",
+      "translation_zh": "任何民族都不能先其定期而灭亡，也不能后其定期而沦丧。"
+    },
+    {
+      "number": 6,
+      "text": "وَقَالُوا۟ يَٰٓأَيُّهَا ٱلَّذِى نُزِّلَ عَلَيْهِ ٱلذِّكْرُ إِنَّكَ لَمَجْنُونٌ",
+      "translation_en": "And they say, \"O you upon whom the message has been sent down, indeed you are mad.",
+      "translation_zh": "他们说：受降示教诲的人啊！你确是一个疯子。"
+    },
+    {
+      "number": 7,
+      "text": "لَّوْ مَا تَأْتِينَا بِٱلْمَلَٰٓئِكَةِ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ",
+      "translation_en": "Why do you not bring us the angels, if you should be among the truthful?\"",
+      "translation_zh": "你怎不昭示我们一些天神呢？如果你是说实话的。"
+    },
+    {
+      "number": 8,
+      "text": "مَا نُنَزِّلُ ٱلْمَلَٰٓئِكَةَ إِلَّا بِٱلْحَقِّ وَمَا كَانُوٓا۟ إِذًا مُّنظَرِينَ",
+      "translation_en": "We do not send down the angels except with truth; and the disbelievers would not then be reprieved.",
+      "translation_zh": "我只凭真理而降天神，到那时，他们是不蒙缓刑的。"
+    },
+    {
+      "number": 9,
+      "text": "إِنَّا نَحْنُ نَزَّلْنَا ٱلذِّكْرَ وَإِنَّا لَهُۥ لَحَٰفِظُونَ",
+      "translation_en": "Indeed, it is We who sent down the Qur'an and indeed, We will be its guardian.",
+      "translation_zh": "我确已降示教诲，我确是教诲的保护者。"
+    },
+    {
+      "number": 10,
+      "text": "وَلَقَدْ أَرْسَلْنَا مِن قَبْلِكَ فِى شِيَعِ ٱلْأَوَّلِينَ",
+      "translation_en": "And We had certainly sent [messengers] before you, [O Muhammad], among the sects of the former peoples.",
+      "translation_zh": "在你之前，我确已派遣了许多使者，去教化古代的各宗派。"
+    },
+    {
+      "number": 11,
+      "text": "وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "translation_en": "And no messenger would come to them except that they ridiculed him.",
+      "translation_zh": "没有一个使者来临他们则已，但有使者来临，他们都加以嘲笑。"
+    },
+    {
+      "number": 12,
+      "text": "كَذَٰلِكَ نَسْلُكُهُۥ فِى قُلُوبِ ٱلْمُجْرِمِينَ",
+      "translation_en": "Thus do We insert denial into the hearts of the criminals.",
+      "translation_zh": "我这样使爱好嘲笑深入罪人们的心。"
+    },
+    {
+      "number": 13,
+      "text": "لَا يُؤْمِنُونَ بِهِۦ وَقَدْ خَلَتْ سُنَّةُ ٱلْأَوَّلِينَ",
+      "translation_en": "They will not believe in it, while there has already occurred the precedent of the former peoples.",
+      "translation_zh": "他们不信我的教诲，其实，古人的常道已逝去了。"
+    },
+    {
+      "number": 14,
+      "text": "وَلَوْ فَتَحْنَا عَلَيْهِم بَابًا مِّنَ ٱلسَّمَآءِ فَظَلُّوا۟ فِيهِ يَعْرُجُونَ",
+      "translation_en": "And [even] if We opened to them a gate from the heaven and they continued therein to ascend,",
+      "translation_zh": "假若我为他们开辟一道天门，而他们从那道天门继续登天，"
+    },
+    {
+      "number": 15,
+      "text": "لَقَالُوٓا۟ إِنَّمَا سُكِّرَتْ أَبْصَٰرُنَا بَلْ نَحْنُ قَوْمٌ مَّسْحُورُونَ",
+      "translation_en": "They would say, \"Our eyes have only been dazzled. Rather, we are a people affected by magic.\"",
+      "translation_zh": "他们必定说：我们的眼睛受蒙蔽了，不然，我们是中了魔术的民众。"
+    },
+    {
+      "number": 16,
+      "text": "وَلَقَدْ جَعَلْنَا فِى ٱلسَّمَآءِ بُرُوجًا وَزَيَّنَّٰهَا لِلنَّٰظِرِينَ",
+      "translation_en": "And We have placed within the heaven great stars and have beautified it for the observers.",
+      "translation_zh": "我确已在天上创造了（十二）宫，我为观察者而修饰天空。"
+    },
+    {
+      "number": 17,
+      "text": "وَحَفِظْنَٰهَا مِن كُلِّ شَيْطَٰنٍ رَّجِيمٍ",
+      "translation_en": "And We have protected it from every devil expelled [from the mercy of Allah]",
+      "translation_zh": "我保护著天，不许任何受诅咒的恶魔得以侵入，"
+    },
+    {
+      "number": 18,
+      "text": "إِلَّا مَنِ ٱسْتَرَقَ ٱلسَّمْعَ فَأَتْبَعَهُۥ شِهَابٌ مُّبِينٌ",
+      "translation_en": "Except one who steals a hearing and is pursued by a clear burning flame.",
+      "translation_zh": "但窃听的恶魔则有明显的流星赶上它。"
+    },
+    {
+      "number": 19,
+      "text": "وَٱلْأَرْضَ مَدَدْنَٰهَا وَأَلْقَيْنَا فِيهَا رَوَٰسِىَ وَأَنۢبَتْنَا فِيهَا مِن كُلِّ شَىْءٍ مَّوْزُونٍ",
+      "translation_en": "And the earth - We have spread it and cast therein firmly set mountains and caused to grow therein [something] of every well-balanced thing.",
+      "translation_zh": "我展开了大地，并把许多山岳安置在大地上，而且使各种均衡的东西生出来。"
+    },
+    {
+      "number": 20,
+      "text": "وَجَعَلْنَا لَكُمْ فِيهَا مَعَٰيِشَ وَمَن لَّسْتُمْ لَهُۥ بِرَٰزِقِينَ",
+      "translation_en": "And We have made for you therein means of living and [for] those for whom you are not providers.",
+      "translation_zh": "我在大地上为你们和你们所不能供养者而创造了许多生活资料。"
+    },
+    {
+      "number": 21,
+      "text": "وَإِن مِّن شَىْءٍ إِلَّا عِندَنَا خَزَآئِنُهُۥ وَمَا نُنَزِّلُهُۥٓ إِلَّا بِقَدَرٍ مَّعْلُومٍ",
+      "translation_en": "And there is not a thing but that with Us are its depositories, and We do not send it down except according to a known measure.",
+      "translation_zh": "每一种事物，我这里都有其仓库，我只依定数降下它。"
+    },
+    {
+      "number": 22,
+      "text": "وَأَرْسَلْنَا ٱلرِّيَٰحَ لَوَٰقِحَ فَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءً فَأَسْقَيْنَٰكُمُوهُ وَمَآ أَنتُمْ لَهُۥ بِخَٰزِنِينَ",
+      "translation_en": "And We have sent the fertilizing winds and sent down water from the sky and given you drink from it. And you are not its retainers.",
+      "translation_zh": "我派遣滋润的风，我就从云中降下雨水，以供给你们饮料，你们绝不是雨水的蓄藏者。"
+    },
+    {
+      "number": 23,
+      "text": "وَإِنَّا لَنَحْنُ نُحْىِۦ وَنُمِيتُ وَنَحْنُ ٱلْوَٰرِثُونَ",
+      "translation_en": "And indeed, it is We who give life and cause death, and We are the Inheritor.",
+      "translation_zh": "我确是能使万物生，能使万物死的；我确是万物的继承者。"
+    },
+    {
+      "number": 24,
+      "text": "وَلَقَدْ عَلِمْنَا ٱلْمُسْتَقْدِمِينَ مِنكُمْ وَلَقَدْ عَلِمْنَا ٱلْمُسْتَـْٔخِرِينَ",
+      "translation_en": "And We have already known the preceding [generations] among you, and We have already known the later [ones to come].",
+      "translation_zh": "我确已知道你们中先进的，我确已知道你们中后进的。"
+    },
+    {
+      "number": 25,
+      "text": "وَإِنَّ رَبَّكَ هُوَ يَحْشُرُهُمْ إِنَّهُۥ حَكِيمٌ عَلِيمٌ",
+      "translation_en": "And indeed, your Lord will gather them; indeed, He is Wise and Knowing.",
+      "translation_zh": "你的主必定集合他们。他确是至睿的，确是全知的。"
+    },
+    {
+      "number": 26,
+      "text": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ مِن صَلْصَٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ",
+      "translation_en": "And We did certainly create man out of clay from an altered black mud.",
+      "translation_zh": "我确已用黑色的成形的黏土创造了人。"
+    },
+    {
+      "number": 27,
+      "text": "وَٱلْجَآنَّ خَلَقْنَٰهُ مِن قَبْلُ مِن نَّارِ ٱلسَّمُومِ",
+      "translation_en": "And the jinn We created before from scorching fire.",
+      "translation_zh": "以前，我曾用烈火创造了精灵。"
+    },
+    {
+      "number": 28,
+      "text": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى خَٰلِقٌۢ بَشَرًا مِّن صَلْصَٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ",
+      "translation_en": "And [mention, O Muhammad], when your Lord said to the angels, \"I will create a human being out of clay from an altered black mud.",
+      "translation_zh": "当时，你的主曾对天神们说：我必定要用黑色的黏土塑造人像而创造人。"
+    },
+    {
+      "number": 29,
+      "text": "فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ",
+      "translation_en": "And when I have proportioned him and breathed into him of My [created] soul, then fall down to him in prostration.\"",
+      "translation_zh": "当我把它塑成，而且把我的精神吹入他的塑像的时候，你们应当对他俯伏叩头。"
+    },
+    {
+      "number": 30,
+      "text": "فَسَجَدَ ٱلْمَلَٰٓئِكَةُ كُلُّهُمْ أَجْمَعُونَ",
+      "translation_en": "So the angels prostrated - all of them entirely,",
+      "translation_zh": "随后，天神们一同叩头，"
+    },
+    {
+      "number": 31,
+      "text": "إِلَّآ إِبْلِيسَ أَبَىٰٓ أَن يَكُونَ مَعَ ٱلسَّٰجِدِينَ",
+      "translation_en": "Except Iblees, he refused to be with those who prostrated.",
+      "translation_zh": "唯独易卜劣厮不肯叩头。"
+    },
+    {
+      "number": 32,
+      "text": "قَالَ يَٰٓإِبْلِيسُ مَا لَكَ أَلَّا تَكُونَ مَعَ ٱلسَّٰجِدِينَ",
+      "translation_en": "[Allah] said, O Iblees, what is [the matter] with you that you are not with those who prostrate?\"",
+      "translation_zh": "主说：易卜劣厮啊！你怎么不叩头呢？"
+    },
+    {
+      "number": 33,
+      "text": "قَالَ لَمْ أَكُن لِّأَسْجُدَ لِبَشَرٍ خَلَقْتَهُۥ مِن صَلْصَٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ",
+      "translation_en": "He said, \"Never would I prostrate to a human whom You created out of clay from an altered black mud.\"",
+      "translation_zh": "他说：你用黑色黏土塑成人像而创造的人，我不该向他叩头。"
+    },
+    {
+      "number": 34,
+      "text": "قَالَ فَٱخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ",
+      "translation_en": "[Allah] said, \"Then get out of it, for indeed, you are expelled.",
+      "translation_zh": "主说：你从这里出去吧。因为你确是被放逐的。"
+    },
+    {
+      "number": 35,
+      "text": "وَإِنَّ عَلَيْكَ ٱللَّعْنَةَ إِلَىٰ يَوْمِ ٱلدِّينِ",
+      "translation_en": "And indeed, upon you is the curse until the Day of Recompense.\"",
+      "translation_zh": "你必遭诅咒，直到报应日。"
+    },
+    {
+      "number": 36,
+      "text": "قَالَ رَبِّ فَأَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+      "translation_en": "He said, \"My Lord, then reprieve me until the Day they are resurrected.\"",
+      "translation_zh": "他说：我的主啊！求你对我缓刑，直到人类复活之日。"
+    },
+    {
+      "number": 37,
+      "text": "قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ",
+      "translation_en": "[Allah] said, \"So indeed, you are of those reprieved",
+      "translation_zh": "主说：你确是被缓刑"
+    },
+    {
+      "number": 38,
+      "text": "إِلَىٰ يَوْمِ ٱلْوَقْتِ ٱلْمَعْلُومِ",
+      "translation_en": "Until the Day of the time well-known.\"",
+      "translation_zh": "到可知的日期。"
+    },
+    {
+      "number": 39,
+      "text": "قَالَ رَبِّ بِمَآ أَغْوَيْتَنِى لَأُزَيِّنَنَّ لَهُمْ فِى ٱلْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+      "translation_en": "[Iblees] said, \"My Lord, because You have put me in error, I will surely make [disobedience] attractive to them on earth, and I will mislead them all",
+      "translation_zh": "他说：我的主啊！你已判定我是迷误的，所以我誓必在大地上以罪恶诱惑他们，我必定要使他们一同迷误。"
+    },
+    {
+      "number": 40,
+      "text": "إِلَّا عِبَادَكَ مِنْهُمُ ٱلْمُخْلَصِينَ",
+      "translation_en": "Except, among them, Your chosen servants.\"",
+      "translation_zh": "除非他们中你所选拔的仆人。"
+    },
+    {
+      "number": 41,
+      "text": "قَالَ هَٰذَا صِرَٰطٌ عَلَىَّ مُسْتَقِيمٌ",
+      "translation_en": "[Allah] said, \"This is a path [of return] to Me [that is] straight.",
+      "translation_zh": "主说：这是我应当维持的正路。"
+    },
+    {
+      "number": 42,
+      "text": "إِنَّ عِبَادِى لَيْسَ لَكَ عَلَيْهِمْ سُلْطَٰنٌ إِلَّا مَنِ ٱتَّبَعَكَ مِنَ ٱلْغَاوِينَ",
+      "translation_en": "Indeed, My servants - no authority will you have over them, except those who follow you of the deviators.",
+      "translation_zh": "我的仆人，你对他们绝无权力，除非那些顺从你的迷误者。"
+    },
+    {
+      "number": 43,
+      "text": "وَإِنَّ جَهَنَّمَ لَمَوْعِدُهُمْ أَجْمَعِينَ",
+      "translation_en": "And indeed, Hell is the promised place for them all.",
+      "translation_zh": "火狱必定是他们全体的约定的地方。"
+    },
+    {
+      "number": 44,
+      "text": "لَهَا سَبْعَةُ أَبْوَٰبٍ لِّكُلِّ بَابٍ مِّنْهُمْ جُزْءٌ مَّقْسُومٌ",
+      "translation_en": "It has seven gates; for every gate is of them a portion designated.\"",
+      "translation_zh": "火狱有7道门，每道门将收容他们中被派定的一部分人。"
+    },
+    {
+      "number": 45,
+      "text": "إِنَّ ٱلْمُتَّقِينَ فِى جَنَّٰتٍ وَعُيُونٍ",
+      "translation_en": "Indeed, the righteous will be within gardens and springs.",
+      "translation_zh": "敬畏者们必定在一些乐园和源泉之间，"
+    },
+    {
+      "number": 46,
+      "text": "ٱدْخُلُوهَا بِسَلَٰمٍ ءَامِنِينَ",
+      "translation_en": "[Having been told], \"Enter it in peace, safe [and secure].\"",
+      "translation_zh": "你们平平安安地进入乐园吧！"
+    },
+    {
+      "number": 47,
+      "text": "وَنَزَعْنَا مَا فِى صُدُورِهِم مِّنْ غِلٍّ إِخْوَٰنًا عَلَىٰ سُرُرٍ مُّتَقَٰبِلِينَ",
+      "translation_en": "And We will remove whatever is in their breasts of resentment, [so they will be] brothers, on thrones facing each other.",
+      "translation_zh": "我清除他们胸中的怨恨，他们将成为弟兄，在高榻上相对而坐。"
+    },
+    {
+      "number": 48,
+      "text": "لَا يَمَسُّهُمْ فِيهَا نَصَبٌ وَمَا هُم مِّنْهَا بِمُخْرَجِينَ",
+      "translation_en": "No fatigue will touch them therein, nor from it will they [ever] be removed.",
+      "translation_zh": "他们在那里不感觉疲乏，他们绝不被逐出。"
+    },
+    {
+      "number": 49,
+      "text": "نَبِّئْ عِبَادِىٓ أَنِّىٓ أَنَا ٱلْغَفُورُ ٱلرَّحِيمُ",
+      "translation_en": "[O Muhammad], inform My servants that it is I who am the Forgiving, the Merciful.",
+      "translation_zh": "你告诉我的仆人们，我确是至赦的，至慈的；"
+    },
+    {
+      "number": 50,
+      "text": "وَأَنَّ عَذَابِى هُوَ ٱلْعَذَابُ ٱلْأَلِيمُ",
+      "translation_en": "And that it is My punishment which is the painful punishment.",
+      "translation_zh": "我的刑罚确是痛苦的。"
+    },
+    {
+      "number": 51,
+      "text": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+      "translation_en": "And inform them about the guests of Abraham,",
+      "translation_zh": "你应当对他们叙述易卜拉欣的客人们的故事。"
+    },
+    {
+      "number": 52,
+      "text": "إِذْ دَخَلُوا۟ عَلَيْهِ فَقَالُوا۟ سَلَٰمًا قَالَ إِنَّا مِنكُمْ وَجِلُونَ",
+      "translation_en": "When they entered upon him and said, \"Peace.\" [Abraham] said, \"Indeed, we are fearful of you.\"",
+      "translation_zh": "当时，他们进去见他，说：祝你平安。他说：我们确是畏惧你们的。"
+    },
+    {
+      "number": 53,
+      "text": "قَالُوا۟ لَا تَوْجَلْ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ عَلِيمٍ",
+      "translation_en": "[The angels] said, \"Fear not. Indeed, we give you good tidings of a learned boy.\"",
+      "translation_zh": "他们说：你不要畏惧，我们的确以一个聪明的男孩向你报喜。"
+    },
+    {
+      "number": 54,
+      "text": "قَالَ أَبَشَّرْتُمُونِى عَلَىٰٓ أَن مَّسَّنِىَ ٱلْكِبَرُ فَبِمَ تُبَشِّرُونَ",
+      "translation_en": "He said, \"Have you given me good tidings although old age has come upon me? Then of what [wonder] do you inform?\"",
+      "translation_zh": "他说：我已老迈，你们还向我报喜吗？你们以什么向我报喜呢？"
+    },
+    {
+      "number": 55,
+      "text": "قَالُوا۟ بَشَّرْنَٰكَ بِٱلْحَقِّ فَلَا تَكُن مِّنَ ٱلْقَٰنِطِينَ",
+      "translation_en": "They said, \"We have given you good tidings in truth, so do not be of the despairing.\"",
+      "translation_zh": "他们说：我们凭真理而向你报喜，所以你不要绝望。"
+    },
+    {
+      "number": 56,
+      "text": "قَالَ وَمَن يَقْنَطُ مِن رَّحْمَةِ رَبِّهِۦٓ إِلَّا ٱلضَّآلُّونَ",
+      "translation_en": "He said, \"And who despairs of the mercy of his Lord except for those astray?\"",
+      "translation_zh": "他说：除迷误者外，谁会绝望于真主的恩惠呢？"
+    },
+    {
+      "number": 57,
+      "text": "قَالَ فَمَا خَطْبُكُمْ أَيُّهَا ٱلْمُرْسَلُونَ",
+      "translation_en": "[Abraham] said, \"Then what is your business [here], O messengers?\"",
+      "translation_zh": "他说：使者们啊！你们有什么差事呢？"
+    },
+    {
+      "number": 58,
+      "text": "قَالُوٓا۟ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمٍ مُّجْرِمِينَ",
+      "translation_en": "They said, \"Indeed, we have been sent to a people of criminals,",
+      "translation_zh": "他们说：我们奉派去惩治一群犯罪的民众。"
+    },
+    {
+      "number": 59,
+      "text": "إِلَّآ ءَالَ لُوطٍ إِنَّا لَمُنَجُّوهُمْ أَجْمَعِينَ",
+      "translation_en": "Except the family of Lot; indeed, we will save them all",
+      "translation_zh": "鲁特的家族除外，我们确要把他们全都救出来；"
+    },
+    {
+      "number": 60,
+      "text": "إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَآ إِنَّهَا لَمِنَ ٱلْغَٰبِرِينَ",
+      "translation_en": "Except his wife.\" Allah decreed that she is of those who remain behind.",
+      "translation_zh": "但他的妻子除外，我们已预定她和其余的人同受刑罚。"
+    },
+    {
+      "number": 61,
+      "text": "فَلَمَّا جَآءَ ءَالَ لُوطٍ ٱلْمُرْسَلُونَ",
+      "translation_en": "And when the messengers came to the family of Lot,",
+      "translation_zh": "当使者们来到鲁特的家里的时候，"
+    },
+    {
+      "number": 62,
+      "text": "قَالَ إِنَّكُمْ قَوْمٌ مُّنكَرُونَ",
+      "translation_en": "He said, \"Indeed, you are people unknown.\"",
+      "translation_zh": "他说：你们确是一些陌生的人。"
+    },
+    {
+      "number": 63,
+      "text": "قَالُوا۟ بَلْ جِئْنَٰكَ بِمَا كَانُوا۟ فِيهِ يَمْتَرُونَ",
+      "translation_en": "They said, \"But we have come to you with that about which they were disputing,",
+      "translation_zh": "他们说：不然；我们把他们一向争论的（刑罚）带来给你了。"
+    },
+    {
+      "number": 64,
+      "text": "وَأَتَيْنَٰكَ بِٱلْحَقِّ وَإِنَّا لَصَٰدِقُونَ",
+      "translation_en": "And we have come to you with truth, and indeed, we are truthful.",
+      "translation_zh": "我们把真理带来给你了，我们确是诚实的。"
+    },
+    {
+      "number": 65,
+      "text": "فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِّنَ ٱلَّيْلِ وَٱتَّبِعْ أَدْبَٰرَهُمْ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ وَٱمْضُوا۟ حَيْثُ تُؤْمَرُونَ",
+      "translation_en": "So set out with your family during a portion of the night and follow behind them and let not anyone among you look back and continue on to where you are commanded.\"",
+      "translation_zh": "你应当带著你的家族在深夜出行，你要跟在他们的后面，你们中的任何人也不要回头看。你们应当往前走，一直走到你们奉命到达的地方。"
+    },
+    {
+      "number": 66,
+      "text": "وَقَضَيْنَآ إِلَيْهِ ذَٰلِكَ ٱلْأَمْرَ أَنَّ دَابِرَ هَٰٓؤُلَآءِ مَقْطُوعٌ مُّصْبِحِينَ",
+      "translation_en": "And We conveyed to him [the decree] of that matter: that those [sinners] would be eliminated by early morning.",
+      "translation_zh": "我启示他这个判决：就是这等人，在早晨将被根除。"
+    },
+    {
+      "number": 67,
+      "text": "وَجَآءَ أَهْلُ ٱلْمَدِينَةِ يَسْتَبْشِرُونَ",
+      "translation_en": "And the people of the city came rejoicing.",
+      "translation_zh": "城里的居民欣然而来，"
+    },
+    {
+      "number": 68,
+      "text": "قَالَ إِنَّ هَٰٓؤُلَآءِ ضَيْفِى فَلَا تَفْضَحُونِ",
+      "translation_en": "[Lot] said, \"Indeed, these are my guests, so do not shame me.",
+      "translation_zh": "他说：这些是我的客人，你们不要凌辱我，"
+    },
+    {
+      "number": 69,
+      "text": "وَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ",
+      "translation_en": "And fear Allah and do not disgrace me.\"",
+      "translation_zh": "你们应当敬畏真主，你们不要差辱我。"
+    },
+    {
+      "number": 70,
+      "text": "قَالُوٓا۟ أَوَلَمْ نَنْهَكَ عَنِ ٱلْعَٰلَمِينَ",
+      "translation_en": "They said, \"Have we not forbidden you from [protecting] people?\"",
+      "translation_zh": "他们说：难道我们没有禁止你与世人往来吗？"
+    },
+    {
+      "number": 71,
+      "text": "قَالَ هَٰٓؤُلَآءِ بَنَاتِىٓ إِن كُنتُمْ فَٰعِلِينَ",
+      "translation_en": "[Lot] said, \"These are my daughters - if you would be doers [of lawful marriage].\"",
+      "translation_zh": "他说：这些是我的女儿，如果你们要干什么。"
+    },
+    {
+      "number": 72,
+      "text": "لَعَمْرُكَ إِنَّهُمْ لَفِى سَكْرَتِهِمْ يَعْمَهُونَ",
+      "translation_en": "By your life, [O Muhammad], indeed they were, in their intoxication, wandering blindly.",
+      "translation_zh": "指你的寿命发誓，他们必将彷徨于自己的癫狂之中。"
+    },
+    {
+      "number": 73,
+      "text": "فَأَخَذَتْهُمُ ٱلصَّيْحَةُ مُشْرِقِينَ",
+      "translation_en": "So the shriek seized them at sunrise.",
+      "translation_zh": "呐喊声在日出时袭击了他们。"
+    },
+    {
+      "number": 74,
+      "text": "فَجَعَلْنَا عَٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهِمْ حِجَارَةً مِّن سِجِّيلٍ",
+      "translation_en": "And We made the highest part [of the city] its lowest and rained upon them stones of hard clay.",
+      "translation_zh": "我使那个市镇天翻地覆，并使陶石像雨点般降落在他们身上。"
+    },
+    {
+      "number": 75,
+      "text": "إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّلْمُتَوَسِّمِينَ",
+      "translation_en": "Indeed in that are signs for those who discern.",
+      "translation_zh": "对于能考察者，此中确有许多迹象。"
+    },
+    {
+      "number": 76,
+      "text": "وَإِنَّهَا لَبِسَبِيلٍ مُّقِيمٍ",
+      "translation_en": "And indeed, those cities are [situated] on an established road.",
+      "translation_zh": "那个市镇确是在一条仍然存在的道路上的。"
+    },
+    {
+      "number": 77,
+      "text": "إِنَّ فِى ذَٰلِكَ لَءَايَةً لِّلْمُؤْمِنِينَ",
+      "translation_en": "Indeed in that is a sign for the believers.",
+      "translation_zh": "对于信道者，此中确有一种迹象。"
+    },
+    {
+      "number": 78,
+      "text": "وَإِن كَانَ أَصْحَٰبُ ٱلْأَيْكَةِ لَظَٰلِمِينَ",
+      "translation_en": "And the companions of the thicket were [also] wrongdoers.",
+      "translation_zh": "那丛林的居民确是不义的，"
+    },
+    {
+      "number": 79,
+      "text": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍ مُّبِينٍ",
+      "translation_en": "So We took retribution from them, and indeed, both [cities] are on a clear highway.",
+      "translation_zh": "故我惩治了他们。这两个地方都在平坦的路上。"
+    },
+    {
+      "number": 80,
+      "text": "وَلَقَدْ كَذَّبَ أَصْحَٰبُ ٱلْحِجْرِ ٱلْمُرْسَلِينَ",
+      "translation_en": "And certainly did the companions of Thamud deny the messengers.",
+      "translation_zh": "石谷的居民确已否认使者们。"
+    },
+    {
+      "number": 81,
+      "text": "وَءَاتَيْنَٰهُمْ ءَايَٰتِنَا فَكَانُوا۟ عَنْهَا مُعْرِضِينَ",
+      "translation_en": "And We gave them Our signs, but from them they were turning away.",
+      "translation_zh": "我确已把我的许多迹象昭示他们，但他们背离了它。"
+    },
+    {
+      "number": 82,
+      "text": "وَكَانُوا۟ يَنْحِتُونَ مِنَ ٱلْجِبَالِ بُيُوتًا ءَامِنِينَ",
+      "translation_en": "And they used to carve from the mountains, houses, feeling secure.",
+      "translation_zh": "他们安全地凿山为屋，"
+    },
+    {
+      "number": 83,
+      "text": "فَأَخَذَتْهُمُ ٱلصَّيْحَةُ مُصْبِحِينَ",
+      "translation_en": "But the shriek seized them at early morning.",
+      "translation_zh": "但呐喊声在早晨袭击了他们。"
+    },
+    {
+      "number": 84,
+      "text": "فَمَآ أَغْنَىٰ عَنْهُم مَّا كَانُوا۟ يَكْسِبُونَ",
+      "translation_en": "So nothing availed them [from] what they used to earn.",
+      "translation_zh": "他们所谋求的，对于他们无济于事。"
+    },
+    {
+      "number": 85,
+      "text": "وَمَا خَلَقْنَا ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَآ إِلَّا بِٱلْحَقِّ وَإِنَّ ٱلسَّاعَةَ لَءَاتِيَةٌ فَٱصْفَحِ ٱلصَّفْحَ ٱلْجَمِيلَ",
+      "translation_en": "And We have not created the heavens and earth and that between them except in truth. And indeed, the Hour is coming; so forgive with gracious forgiveness.",
+      "translation_zh": "我只凭真理创造天地万物，复活时是必定来临的。所以你应当温和地原谅众人。"
+    },
+    {
+      "number": 86,
+      "text": "إِنَّ رَبَّكَ هُوَ ٱلْخَلَّٰقُ ٱلْعَلِيمُ",
+      "translation_en": "Indeed, your Lord - He is the Knowing Creator.",
+      "translation_zh": "你的主确是创造万物的主，确是全知的。"
+    },
+    {
+      "number": 87,
+      "text": "وَلَقَدْ ءَاتَيْنَٰكَ سَبْعًا مِّنَ ٱلْمَثَانِى وَٱلْقُرْءَانَ ٱلْعَظِيمَ",
+      "translation_en": "And We have certainly given you, [O Muhammad], seven of the often repeated [verses] and the great Qur'an.",
+      "translation_zh": "我确已赏赐你常常反复诵读的七节经文和伟大的《古兰经》。"
+    },
+    {
+      "number": 88,
+      "text": "لَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًا مِّنْهُمْ وَلَا تَحْزَنْ عَلَيْهِمْ وَٱخْفِضْ جَنَاحَكَ لِلْمُؤْمِنِينَ",
+      "translation_en": "Do not extend your eyes toward that by which We have given enjoyment to [certain] categories of the disbelievers, and do not grieve over them. And lower your wing to the believers",
+      "translation_zh": "你不要觊觎我所使他们中各等人所享受的事物，你不要为他们而悲哀。你应当温和地对待信士们。"
+    },
+    {
+      "number": 89,
+      "text": "وَقُلْ إِنِّىٓ أَنَا ٱلنَّذِيرُ ٱلْمُبِينُ",
+      "translation_en": "And say, \"Indeed, I am the clear warner\" -",
+      "translation_zh": "你说：我确是坦率的警告者。"
+    },
+    {
+      "number": 90,
+      "text": "كَمَآ أَنزَلْنَا عَلَى ٱلْمُقْتَسِمِينَ",
+      "translation_en": "Just as We had revealed [scriptures] to the separators",
+      "translation_zh": "那正如我所降示分配者们的（东西）一样的，"
+    },
+    {
+      "number": 91,
+      "text": "ٱلَّذِينَ جَعَلُوا۟ ٱلْقُرْءَانَ عِضِينَ",
+      "translation_en": "Who have made the Qur'an into portions.",
+      "translation_zh": "他们把《古兰经》分割成若干肢体。"
+    },
+    {
+      "number": 92,
+      "text": "فَوَرَبِّكَ لَنَسْـَٔلَنَّهُمْ أَجْمَعِينَ",
+      "translation_en": "So by your Lord, We will surely question them all",
+      "translation_zh": "指你的主发誓，我必将他们全体加以审问--"
+    },
+    {
+      "number": 93,
+      "text": "عَمَّا كَانُوا۟ يَعْمَلُونَ",
+      "translation_en": "About what they used to do.",
+      "translation_zh": "审问他们生前的行为。"
+    },
+    {
+      "number": 94,
+      "text": "فَٱصْدَعْ بِمَا تُؤْمَرُ وَأَعْرِضْ عَنِ ٱلْمُشْرِكِينَ",
+      "translation_en": "Then declare what you are commanded and turn away from the polytheists.",
+      "translation_zh": "你应当公开宣布你所奉的命令，而且避开以物配主者。"
+    },
+    {
+      "number": 95,
+      "text": "إِنَّا كَفَيْنَٰكَ ٱلْمُسْتَهْزِءِينَ",
+      "translation_en": "Indeed, We are sufficient for you against the mockers",
+      "translation_zh": "在对付嘲笑者方面，我必使你满足。"
+    },
+    {
+      "number": 96,
+      "text": "ٱلَّذِينَ يَجْعَلُونَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَسَوْفَ يَعْلَمُونَ",
+      "translation_en": "Who make [equal] with Allah another deity. But they are going to know.",
+      "translation_zh": "嘲笑者除真主外还崇拜别的神灵，不久他们就会知道了。"
+    },
+    {
+      "number": 97,
+      "text": "وَلَقَدْ نَعْلَمُ أَنَّكَ يَضِيقُ صَدْرُكَ بِمَا يَقُولُونَ",
+      "translation_en": "And We already know that your breast is constrained by what they say.",
+      "translation_zh": "我确已知道你为他们的谰言而烦闷。"
+    },
+    {
+      "number": 98,
+      "text": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَكُن مِّنَ ٱلسَّٰجِدِينَ",
+      "translation_en": "So exalt [Allah] with praise of your Lord and be of those who prostrate [to Him].",
+      "translation_zh": "你应当赞颂你的主超绝万物，你应当与众人一起叩头，"
+    },
+    {
+      "number": 99,
+      "text": "وَٱعْبُدْ رَبَّكَ حَتَّىٰ يَأْتِيَكَ ٱلْيَقِينُ",
+      "translation_en": "And worship your Lord until there comes to you the certainty (death).",
+      "translation_zh": "你应当崇拜你的主，直到那无疑的消息来临。"
+    }
+  ]
+}

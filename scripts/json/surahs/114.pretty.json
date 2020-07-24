@@ -1,0 +1,46 @@
+{
+  "number": 114,
+  "name": "سورة الناس",
+  "transliteration_en": "An-Naas",
+  "translation_en": "Mankind",
+  "total_verses": 6,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "translation_en": "Say, \"I seek refuge in the Lord of mankind,",
+      "translation_zh": "你说: 我求庇于世人的主宰,"
+    },
+    {
+      "number": 2,
+      "text": "مَلِكِ ٱلنَّاسِ",
+      "translation_en": "The Sovereign of mankind.",
+      "translation_zh": "世人的君王,"
+    },
+    {
+      "number": 3,
+      "text": "إِلَٰهِ ٱلنَّاسِ",
+      "translation_en": "The God of mankind,",
+      "translation_zh": "世人的神明,"
+    },
+    {
+      "number": 4,
+      "text": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+      "translation_en": "From the evil of the retreating whisperer -",
+      "translation_zh": "免遭潜伏的教唆者的毒害,"
+    },
+    {
+      "number": 5,
+      "text": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+      "translation_en": "Who whispers [evil] into the breasts of mankind -",
+      "translation_zh": "他在世人的胸中教唆,"
+    },
+    {
+      "number": 6,
+      "text": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+      "translation_en": "From among the jinn and mankind.\"",
+      "translation_zh": "他是属于精灵和人类的。"
+    }
+  ]
+}

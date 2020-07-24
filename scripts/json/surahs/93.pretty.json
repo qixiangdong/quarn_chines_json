@@ -1,0 +1,76 @@
+{
+  "number": 93,
+  "name": "سورة الضحى",
+  "transliteration_en": "Ad-Dhuhaa",
+  "translation_en": "The Morning Hours",
+  "total_verses": 11,
+  "revelation_type": "Meccan",
+  "verses": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلضُّحَىٰ",
+      "translation_en": "By the morning brightness",
+      "translation_zh": "誓以上午，"
+    },
+    {
+      "number": 2,
+      "text": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+      "translation_en": "And [by] the night when it covers with darkness,",
+      "translation_zh": "誓以黑夜，当其寂静的时候，"
+    },
+    {
+      "number": 3,
+      "text": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "translation_en": "Your Lord has not taken leave of you, [O Muhammad], nor has He detested [you].",
+      "translation_zh": "你的主没有弃绝你，也没有怨恨你；"
+    },
+    {
+      "number": 4,
+      "text": "وَلَلْءَاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ",
+      "translation_en": "And the Hereafter is better for you than the first [life].",
+      "translation_zh": "後世於你，确比今世更好；"
+    },
+    {
+      "number": 5,
+      "text": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+      "translation_en": "And your Lord is going to give you, and you will be satisfied.",
+      "translation_zh": "你的主将来必赏赐你，以至你喜悦。"
+    },
+    {
+      "number": 6,
+      "text": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+      "translation_en": "Did He not find you an orphan and give [you] refuge?",
+      "translation_zh": "难道他没有发现你伶仃孤苦，而使你有所归宿？"
+    },
+    {
+      "number": 7,
+      "text": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+      "translation_en": "And He found you lost and guided [you],",
+      "translation_zh": "他曾发现你徘徊歧途，而把你引入正路；"
+    },
+    {
+      "number": 8,
+      "text": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+      "translation_en": "And He found you poor and made [you] self-sufficient.",
+      "translation_zh": "发现你家境寒苦，而使你衣食丰足。"
+    },
+    {
+      "number": 9,
+      "text": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+      "translation_en": "So as for the orphan, do not oppress [him].",
+      "translation_zh": "至於孤儿，你不要压迫他；"
+    },
+    {
+      "number": 10,
+      "text": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+      "translation_en": "And as for the petitioner, do not repel [him].",
+      "translation_zh": "至於乞丐，你不要喝斥他，"
+    },
+    {
+      "number": 11,
+      "text": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "translation_en": "But as for the favor of your Lord, report [it].",
+      "translation_zh": "至於你的主所赐你的恩典呢，你应当宣示它。"
+    }
+  ]
+}
